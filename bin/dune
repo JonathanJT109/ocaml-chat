@@ -1,4 +1,4 @@
 (executables
  (public_names ocaml_chat client)
  (names main client)
- (libraries ocaml_chat lwt.unix logs.lwt))
+ (libraries ocaml_chat lwt.unix logs.lwt spectrum))

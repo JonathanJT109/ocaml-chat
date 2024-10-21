@@ -1,9 +1,0 @@
-lib: [
-  "_build/install/default/lib/ocaml_chat/META"
-  "_build/install/default/lib/ocaml_chat/dune-package"
-  "_build/install/default/lib/ocaml_chat/opam"
-]
-bin: [
-  "_build/install/default/bin/client"
-  "_build/install/default/bin/ocaml_chat"
-]
